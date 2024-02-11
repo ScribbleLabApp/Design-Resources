@@ -5,3 +5,14 @@ Welcome to ScribbleLab's Design Resources repository, a curated collection of to
 
 > [!Warning]
 > Those Resources must only use in design prototypes for ScribbleLab or ScribbleLink.
+
+> Updated version on Februrary, 2024.
+
+Thanks for your interest in ScribbleLabApp! Here you'll find product screenshots and informational documents about our software and company.
+
+### Table of Contents
+- Design Pack
+- Images
+- Product Screenshots & Videos
+- Copy Content
+- Useful Links
