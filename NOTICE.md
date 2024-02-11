@@ -23,3 +23,9 @@
 - ***Design-Resources/visuals/illustartions/people-illustartion-orange.png***:
 Image by storyset (Note: Color changed from green to orange)
 on [Freepik](https://www.freepik.com/free-vector/learning-concept-illustration_10117870.htm?epik=dj0yJnU9dzhIeWp1eDBGb295WWlfZk8za1c2TGdaTVdRM00zbDMmcD0wJm49eDB5dkV1dFJyY1RQUU9NYXhSUDRKdyZ0PUFBQUFBR1ZQc0tF).
+
+- ***Design-Resources/visuals/illustartions/2203_w037_n003_233b_p1_233.jpg***:
+back-school-kids-students-with-backpacks-textbooks-stand-row-boy-girls-pupils-reading-books-education-learning-studying-concept-with-children-group-line-art-vector-illustration on Freepik.
+
+- ***Design/Resources/visuals/illustrations/4709786.jpg***: 
+Designed by stories / Freepik
